@@ -1,0 +1,14 @@
+.x{
+	background-color: white;
+	border: 2px solid black;
+	margin: 50px 330px 50px 330px;
+	height: 525px;
+	padding-left: 25px;
+}
+body{
+	background-color: #dddddd;
+}
+.y{
+	padding-top: 7px;
+	padding-right: 70px;
+}
